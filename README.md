@@ -1,3 +1,2 @@
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodlingSh&show_icons=true&locale=en&layout=compact" alt="samurai71" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodlingSh&show_icons=true&locale=en" alt="samurai71" /></p>
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
