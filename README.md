@@ -18,7 +18,6 @@ I'm a passionate full-stack developer from Sarnia, Ontario, Canada.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodlingSh&show_icons=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodlingSh&layout=donut&langs_count=6&hide=smarty)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
 
 ## Get in Touch
 
