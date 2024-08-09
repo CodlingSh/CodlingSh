@@ -11,7 +11,7 @@ I'm a passionate full-stack developer from Sarnia, Ontario, Canada.
 
 - Programming languages: [Bash, C#, Java, JavaScript, Lua, Python]
 - Frameworks and libraries: [Bootstrap, React, Tailwind CSS, ASP.NET, Django, Flask, Node.JS, Spring]
-- Databases: [MongoDB, MySQL, SQLite]
+- Databases: [MongoDB, PostgreSQL, SQLite]
 - Tools and Technologies: [AWS, GIT, Netlify, Vim, VS Code, Linux]
 
 ## GitHub Stats
