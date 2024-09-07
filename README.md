@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a passionate full-stack developer from Sarnia, Ontario, Canada. 
+I'm a passionate full-stack developer from Sarnia, Ontario, Canada. Familiar with Python, Javascript, Java, and C#.
 
 ## Skills
 
