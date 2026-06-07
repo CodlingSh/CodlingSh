@@ -21,7 +21,7 @@ I'm a full-stack developer from Sarnia, Ontario, Canada. Familiar with Python, J
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/codlinsh/)
+- LinkedIn: [codlinsh](https://www.linkedin.com/in/codlinsh/)
 - Portfolio: [www.sheldonc.ca](https://www.sheldonc.ca/)
 
 
